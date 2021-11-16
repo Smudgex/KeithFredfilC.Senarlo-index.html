@@ -1,0 +1,26 @@
+.black{
+	color: black;
+}
+img{
+	border-radius: 15px;
+	margin: 20px;
+	width: 230px;
+}
+.red{
+	color: red;
+}
+body{
+	background-color: antiquewhite;
+}
+.blueviolet{
+	color: blueviolet;
+}
+.dodgerblue{
+	color: dodgerblue;
+}
+.mediumseagreen{
+	color: mediumseagreen;
+}
+p{
+	font-size: 20px;
+}
